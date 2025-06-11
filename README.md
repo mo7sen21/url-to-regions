@@ -33,8 +33,3 @@ This analysis classifies organic search traffic to hospital websites by geograph
 | 2023-05-01| Al Ain     | Al Ain Hospital   | 87          | 0.62            |
 
 
-graph LR
-A[GA4 Raw Data] --> B[Region Classification]
-B --> C[Dubai Hospitals]
-B --> D[Abu Dhabi Hospitals]
-B --> E[Al Ain Hospitals]
